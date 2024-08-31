@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://192.168.18.21:8000/api/xmltv.xml" x-tvg-url="http://192.168.18.21:8000/api/xmltv.xml"
+#EXTINF:0 tvg-id="1" CUID="1" tvg-chno="1" tvg-name="MTV Indonesia" tvg-logo="http://192.168.18.21:8000/images/dizquetv.png" group-title="Music",MTV Indonesia
+http://192.168.18.21:8000/video?channel=1

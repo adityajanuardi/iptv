@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<tv generator-info-name="dizquetv">
+    <channel id="1">
+        <display-name lang="en">MTV Indonesia</display-name>
+        <icon src="http://192.168.18.21:8000/images/dizquetv.png"/>
+    </channel>
+    <programme start="20240831125500 +0000" stop="20240831130417 +0000" channel="1">
+        <title lang="en">MTV Indonesia</title>
+        <previously-shown/>
+        <icon src="http://192.168.18.21:8000/images/dizquetv.png"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831130417 +0000" stop="20240831132346 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831132346 +0000" stop="20240831134314 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831134314 +0000" stop="20240831140243 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831140243 +0000" stop="20240831142211 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831142211 +0000" stop="20240831144140 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831144140 +0000" stop="20240831150108 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831150108 +0000" stop="20240831152037 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831152037 +0000" stop="20240831154005 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831154005 +0000" stop="20240831155934 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831155934 +0000" stop="20240831161903 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831161903 +0000" stop="20240831163831 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831163831 +0000" stop="20240831165800 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831165800 +0000" stop="20240831171728 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831171728 +0000" stop="20240831173657 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831173657 +0000" stop="20240831175625 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831175625 +0000" stop="20240831181554 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831181554 +0000" stop="20240831183522 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831183522 +0000" stop="20240831185451 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831185451 +0000" stop="20240831191419 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831191419 +0000" stop="20240831193348 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831193348 +0000" stop="20240831195317 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831195317 +0000" stop="20240831201245 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831201245 +0000" stop="20240831203214 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831203214 +0000" stop="20240831205142 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831205142 +0000" stop="20240831211111 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831211111 +0000" stop="20240831213039 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831213039 +0000" stop="20240831215008 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831215008 +0000" stop="20240831220936 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831220936 +0000" stop="20240831222905 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831222905 +0000" stop="20240831224833 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831224833 +0000" stop="20240831230802 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831230802 +0000" stop="20240831232730 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831232730 +0000" stop="20240831234659 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240831234659 +0000" stop="20240901000628 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240901000628 +0000" stop="20240901002556 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240901002556 +0000" stop="20240901004525 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+    <programme start="20240901004525 +0000" stop="20240901010018 +0000" channel="1">
+        <title lang="en">Hindia - Untuk Apa _ Untuk Apa_ (Official Music Video)</title>
+        <previously-shown/>
+        <icon src="https://192-168-18-29.f2c8155f6ba8456581477b78428c84cb.plex.direct:32400/library/metadata/3408/thumb/1725104992?X-Plex-Token=y4feJzZhFjyccsjqFz9P"/>
+        <desc lang="en">MTV Indonesia</desc>
+    </programme>
+</tv>

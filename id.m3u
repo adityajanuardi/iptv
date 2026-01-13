@@ -1,0 +1,75 @@
+﻿#EXTM3U
+#EXTINF:-1  tvg-id="MTVBiggestPop.us@US" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="Music",MTV Biggest Pop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+#EXTINF:-1  tvg-id="MTVClassic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music",MTV Classic (360p)
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1  tvg-id="MTVLive.us@SD" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="Music",MTV Live (720p)
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1  tvg-id="MTVSpankinNew.us@US" tvg-logo="https://i.imgur.com/thbvJd1.png" group-title="Music",MTV Spankin' New
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
+#EXTINF:-1  tvg-id="StingrayGreatestHolidayHits.us@SD" tvg-logo="https://i.imgur.com/Hz2d6og.png" group-title="Music",Stingray Greatest Holiday Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
+#EXTINF:-1  tvg-id="StrykTV.us@HD" tvg-logo="https://i.imgur.com/rKkHhkX.png" group-title="Music",Stryk TV (1080p)
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
+#EXTINF:-1  tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K (1080p)
+https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-id="Vevo70s.us@SD" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Vevo 70s (1080p)
+https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-id="Vevo80s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo 80s (1080p)
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-id="Vevo90s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",Vevo 90s (1080p)
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-id="VevoCountry.us@SD" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Vevo Country (1080p)
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1  tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop (1080p)
+https://amg00056-vevotv-vevopopau-samsungnz-wa3bw.amagi.tv/playlist/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-id="VevoRB.us@SD" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Music",Vevo R&B
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
+#EXTINF:-1  tvg-id="VevoRetroRock.us@SD" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Music",Vevo Retro Rock (1080p)
+https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-id="AngelTV.in@Indonesia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Indonesia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+#EXTINF:-1  tvg-id="BeritaSatuEnglish.id@SD" tvg-logo="https://i.postimg.cc/SRDWxRGs/13092012142252.jpg" group-title="News",BeritaSatu English
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1  tvg-id="BiznetAdventure.id@SD" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="Undefined",Biznet Adventure (1080p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Kids",Biznet Kids (1080p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1  tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="Lifestyle",Biznet Lifestyle (1080p)
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+#EXTINF:-1  tvg-id="BNChannel.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/512px-BN_Channel.png" group-title="News",BN Channel (720p)
+#EXTVLCOPT:http-referrerttps://youtv.live/
+https://flv.intechmedia.net/live/ch112.m3u8
+#EXTINF:-1  tvg-id="BTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="News",BTV (720p)
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1  tvg-id="CarubanTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" group-title="Undefined",Caruban TV (1080p)
+#EXTVLCOPT:http-referrerttps://stream.carubantv.id
+https://stream.carubantv.id/hls/0/stream.m3u8
+#EXTINF:-1  tvg-id="CNBCIndonesia.id@SD" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Business",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1  tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="General",Garuda TV (1080p)
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1  tvg-id="iNews.id@SD" tvg-logo="https://i.imgur.com/M2R3lfg.png" group-title="News",iNews
+#EXTVLCOPT:http-referrerttps://www.rctiplus.com/
+https://allcutv.rctiplus.id/inews2023.m3u8
+#EXTINF:-1  tvg-id="MDTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png" group-title="Undefined",MDTV (1080p)
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1  tvg-id="MusicInformationChannel.id@SD" tvg-logo="https://i.imgur.com/OUPGCWG.png" group-title="Music",Music Information Channel (720p)
+#EXTVLCOPT:http-referrerttps://mic-indo.com/live
+https://mic.siar.us/mic/live/mic.m3u8
+#EXTINF:-1  tvg-id="RCTV.id@SD" tvg-logo="https://i.postimg.cc/DZRB5rpD/rctv.png" group-title="Undefined",RCTV (576p) [Not 24/7]
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1  tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png" group-title="Undefined",RRI Net (1080p)
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+#EXTINF:-1  tvg-id="RTMASEAN.my@SD" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="News",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1  tvg-id="Trans7.id@SD" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="General",Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1  tvg-id="TransTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="General",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1  tvg-id="TVRParlemen.id@SD" tvg-logo="https://i.imgur.com/2XYpmHL.png" group-title="Legislative",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1  tvg-id="TVRI.id@Bali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="General",TVRI Bali (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1  tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png" group-title="Undefined",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
